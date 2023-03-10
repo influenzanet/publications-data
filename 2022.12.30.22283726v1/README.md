@@ -1,6 +1,8 @@
 # Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modeling study
 
-Related scientific article: G. de Meijere et al. Attitudes towards booster, testing and isolation, and impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modeling study (available at: https://www.medrxiv.org/content/10.1101/2022.12.30.22283726v1)
+Related scientific article: Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza, Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study, The Lancet Regional Health - Europe, "in press"
+
+Pre-print available at: https://www.medrxiv.org/content/10.1101/2022.12.30.22283726v1
 
 We provide the raw number of answers to questions 4, 11a, 12, 13, 14, 16a, 17, 18a, 20, 22a and 24 of the COVIDNET.FR/INFECTIERADAR.BE/INFLUWEB.IT SURVEY ON PROSPECTIVE TESTING AND ISOLATION FOR THE 2022/2023 WINTER. The data was collected over the 2022 summer on the French, Belgian and Italian national platforms of Influenzanet.
 The data is stratified by age, gender and education with the following notation: 
