@@ -1,6 +1,6 @@
 # Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modeling study
 
-Related scientific article: Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza, Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study, The Lancet Regional Health - Europe, "in press"
+Related scientific article: Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Kengne-Kuetche, Clément Turbelin, Harold Noël, Joshua Weitz, Daniela Paolotti, Lisa Hermans, Niel Hens, Vittoria Colizza, Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study, The Lancet Regional Health - Europe
 
 Available at: https://www.sciencedirect.com/science/article/pii/S2666776223000327
 
